@@ -193,10 +193,6 @@
       "api": "https://shayuzy5.com/api.php/provide/vod/",
       "name": "鲨鱼资源"
     },
-    "qgfanhao": {
-      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
-      "name": "番号资源站"
-    },
     "qgjkun": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "JKUN资源站"
@@ -216,3 +212,4 @@
     }
   }
 }
+
